@@ -1,0 +1,48 @@
+body{font-family: 'Oswald', sans-serif;
+}
+h1{font-size: 50px;}
+
+.section{display: flex;
+}
+
+.first{
+width: 100%;margin: 5%;}
+
+.second{width: 100%;margin: 5%;}
+
+.my-pic{width: 300px;}
+
+#color1{color: rgb(133, 102, 16);}
+
+a{text-decoration: none;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+background-color: rgb(34, 58, 194);}
+
+.side-spot{border-left: 5px solid rgb(177, 12, 48);
+padding: 10px;border-radius: 10px;}
+
+#color2{color: rgb(133, 102, 16);
+}
+ #ceneter{text-align: center;}
+
+ .my-mission{display: flex;
+width: 100%; }
+
+ .third{width:50%;
+padding: 10px;margin:5%; padding: 10px; border-radius: 20px;
+background-color: rgb(226, 247, 247); box-shadow: 10px 20px 40px;}
+
+.fourth{width:50%;
+    padding: 10px;margin:5%; padding: 10px; border-radius: 20px;
+   background-color: rgb(253, 245, 235);box-shadow: 10px 20px 40px; }
+
+.fifth{width:50%;
+    padding: 10px;margin:5%; padding: 10px; border-radius: 20px;
+background-color: rgb(246, 248, 229);box-shadow: 10px 20px 40px;}
+
+.illustrator{width: 150px;}
+
+
+
