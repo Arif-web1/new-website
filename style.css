@@ -44,16 +44,18 @@ background-color: rgb(246, 248, 229);box-shadow: 10px 20px 40px;}
 
 .illustrator{width: 150px;}
 
-.Develop{display: flex;}
+.Develop{display: flex;background-image: url(shape-1.png);
+background-repeat: no-repeat;background-size: 300px;}
 
 .six{margin: 5%;}
 
 .seven{margin:5%; 
 padding-top: 40px;}
 
-.community{display: flex; ma
+.community{display: flex; 
 
-width: 100%;height: 100%;
+width: 100%;height: 100%;background-image: url(shape-1.png);
+background-repeat: no-repeat;background-size: 300px; background-position: right;
 }
 
 .big{width: 80%;}
@@ -65,7 +67,8 @@ width: 100%;height: 100%;
 
 .middle{text-align: center;}
 
-.corona{display: flex;}
+.corona{display: flex;background-image: url(shape-8.png);
+    background-repeat: no-repeat;background-size: 300px; }
  .nine{width: 50%; height: 50%;margin: 5%;
     
 }
